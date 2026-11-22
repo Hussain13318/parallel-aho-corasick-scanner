@@ -1,4 +1,4 @@
-\# Parallel Multi-Pattern Signature Scanner (Aho-Corasick + OpenMP)
+# Parallel Multi-Pattern Signature Scanner (Aho-Corasick + OpenMP)
 
 
 
